@@ -17,3 +17,16 @@ for example:
 ```ruby
 assert(length >= 0);  // die if length is negative.
 ```
+
+## Objects
+Get the mothods of any object by using ".methods"
+
+```ruby 
+self.methods
+
+#or
+
+x = []
+
+x.methods
+```
